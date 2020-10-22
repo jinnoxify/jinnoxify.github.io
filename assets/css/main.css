@@ -3597,6 +3597,9 @@ input, select, textarea {
   text-align: center;
   margin-left: 100px;
 }
+#about-content {
+	margin-left: 25px;
+}
 	#main {
 		background-color: #2a2f4a;
 	}
