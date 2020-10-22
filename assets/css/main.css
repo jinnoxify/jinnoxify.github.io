@@ -3587,7 +3587,16 @@ input, select, textarea {
 		}
 
 /* Main */
+#pphoto {
+  width: 20%;
+  height: 20%;
+  margin-left: 100px;
+}
 
+#about-title {
+  text-align: center;
+  margin-left: 100px;
+}
 	#main {
 		background-color: #2a2f4a;
 	}
